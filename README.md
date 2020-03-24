@@ -6,4 +6,4 @@ This is clone of popular game about snake, which eat apples and grow.
 I have made this game to train my programmer skills.
 If you know, how make this game better, please tell me.
 
-This game will be upgrade.
+I will do updates.
